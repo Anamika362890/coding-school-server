@@ -10,7 +10,7 @@
     {
         "id": "2",
         "name": "CSS",
-        "price": "1 Month",
+        "price": "2000",
         "duration": "1 Month",
         "img": "https://www.w3docs.com/uploads/media/default/0001/05/6d07a36ebe6d55273b39440f2391f1d7e6d4092a.png",
         "details": "CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.CSS is used for defining the styles for web pages. It describes the look and formatting of a document which is written in a markup language. It provides an additional feature to HTML. It is generally used with HTML to change the style of web pages and user interfaces."
@@ -58,8 +58,8 @@
     {
         "id": "8",
         "name": "C#",
-        "price": "2 Month",
-        "duration": "2000",
+        "price": "2000",
+        "duration": " 2 Month",
         "img": "https://static.skillshare.com/uploads/discussion/tmp/46de5ee9.png",
         "details": "C# (pronounced C-sharp) is an object-oriented programming language from Microsoft that aims to combine the computing power of C++ with the programming ease of Visual Basic. C# is based on C++ and contains features similar to those of Java. C# is designed to work with Microsoft's . NET platform.You learned from the previous chapter that C# is an object-oriented programming language. Everything in C# is associated with classes and objects, along with its attributes and methods. For example: in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake."
     },
