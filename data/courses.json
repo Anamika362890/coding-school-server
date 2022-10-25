@@ -2,81 +2,81 @@
     {
         "id": "1",
         "name": "HTML",
-        "price": "",
-        "duration": "",
-        "img": "",
-        "details": " "
+        "price": "2000",
+        "duration": "1 Month",
+        "img": "https://www.ionos.com/digitalguide/fileadmin/DigitalGuide/Teaser/html-tagst.jpg",
+        "details": "HyperText Markup Language (HTML) is the basic scripting language used by web browsers to render pages on the world wide web.HTML is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.Every browser uses HTML, as it defines the structure of the web. Thus, understanding the basics of HTML is important for new coders. If you end up doing any type of web development, you should definitely learn HTML."
     },
     {
         "id": "2",
         "name": "CSS",
-        "price": "",
-        "duration": "",
-        "img": "",
-        "details": " "
+        "price": "1 Month",
+        "duration": "1 Month",
+        "img": "https://www.w3docs.com/uploads/media/default/0001/05/6d07a36ebe6d55273b39440f2391f1d7e6d4092a.png",
+        "details": "CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.CSS is used for defining the styles for web pages. It describes the look and formatting of a document which is written in a markup language. It provides an additional feature to HTML. It is generally used with HTML to change the style of web pages and user interfaces."
     },
     {
         "id": "3",
         "name": "Python",
-        "price": "",
-        "duration": "",
-        "img": "",
-        "details": "Python is another programming language that is commonly used. It’s a high-level, general-purpose language used by internet powerhouses such as Google, Dropbox, Venmo, YouTube, and Yahoo Maps. "
+        "price": "7000",
+        "duration": "7 Month",
+        "img": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg",
+        "details": "Python is another programming language that is commonly used. It’s a high-level, general-purpose language used by internet powerhouses such as Google, Dropbox, Venmo, YouTube, and Yahoo Maps.The course teaches you the essential concepts of Python programming, and gives you an in-depth knowledge in data analytics, machine learning, data visualization, web scraping, and natural language processing. You will master the essential concepts of data types, tuples, lists, dicts, basic operators, and functions. "
     },
     {
         "id": "4",
         "name": "PHP",
-        "price": "",
-        "duration": "",
-        "img": "",
-        "details": " "
+        "price": "4000",
+        "duration": "3 Month",
+        "img": "https://kinsta.com/wp-content/uploads/2020/03/php-tutorials-1024x512.png",
+        "details": " PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.PHP is a programming language used to script websites that are dynamic and interactive. You'll find it in various types of web applications, from e-commerce websites to CRM systems like HubSpot and Salesforce. The term PHP stands for PHP Hypertext Preprocessor."
     },
     {
         "id": "5",
         "name": "C",
-        "price": "",
-        "duration": "",
-        "img": "",
-        "details": " "
+        "price": "3000",
+        "duration": "3 Month",
+        "img": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png",
+        "details": "C language is a high-level computer programming language that was developed to perform system programming for the operating system like UNIX. It is an imperative and procedural language, which means people can write their programs as a series of step-by-step instructions.While C is one of the more difficult languages to learn, it's still an excellent first language pick up because almost all programming languages are implemented in it. This means that once you learn C, it'll be simple to learn more languages like C++ and C#."
     },
     {
         "id": "6",
         "name": "C++",
-        "price": "",
-        "duration": "",
-        "img": "",
-        "details": " "
+        "price": "3000",
+        "duration": "4 Month",
+        "img": "https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1644309507353-Sorting%20image-22.png",
+        "details": "What is C++ Used For? C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures, etc.C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms. C++ is fun and easy to learn."
     },
     {
         "id": "7",
-        "name": "Object Oriented Programming",
-        "price": "",
-        "duration": "",
-        "img": "",
-        "details": " "
+        "name": "Ruby",
+        "price": "7000",
+        "duration": "8 Month",
+        "img": "https://static.javatpoint.com/ruby/images/ruby-tutorial.png",
+        "details": "Ruby was created in 1995 by the renowned Yukihiro “Matz” Matsumoto and was influenced by C, Perl, Java and C++. It is unabashedly object-oriented; in Ruby everything is an object. Some famous sites built using Ruby (on Rails) are Twitter, Hulu, Shopify, and Groupon.From the very beginning, Ruby’s ethos has always been expressiveness, power and elegance. Its dedicated followers love it for its ‘principle of least astonishment’ - the belief that a language’s code should always cause as little confusion as possible for the developer. See this article for some excellent examples of how Ruby’s elegance and expressiveness stacks up against Java’s old-school way of doing things."
     },
     {
         "id": "8",
         "name": "C#",
-        "price": "",
-        "duration": "",
-        "img": "",
-        "details": " "
+        "price": "2 Month",
+        "duration": "2000",
+        "img": "https://static.skillshare.com/uploads/discussion/tmp/46de5ee9.png",
+        "details": "C# (pronounced C-sharp) is an object-oriented programming language from Microsoft that aims to combine the computing power of C++ with the programming ease of Visual Basic. C# is based on C++ and contains features similar to those of Java. C# is designed to work with Microsoft's . NET platform.You learned from the previous chapter that C# is an object-oriented programming language. Everything in C# is associated with classes and objects, along with its attributes and methods. For example: in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake."
     },
     {
         "id": "9",
         "name": "Java",
-        "price": "",
-        "duration": "",
-        "img": "",
-        "details": " "
+        "price": "7000",
+        "duration": "7 Month",
+        "img": "https://contentstatic.techgig.com/photo/90078629.cms",
+        "details": "Java Course is about helping students learn the concepts of programming and help them solve complex problems. This course requires patience, analytical thinking ability, attention to detail as they are essential in becoming a successful programmer.This Certification Course tries to inculcate the knowledge skills needed for a software engineer to solve real-time problems like testing, debugging and designing programs. You can master this programming language and secure jobs in various profiles like Software Developer, Engineer, Java Developer, Programmer, Web Application Developer, Android Software Developer, Java EE Application Engineer, Java Spring Developer."
     },
     {
         "id": "10",
         "name": "SQL",
-        "price": "",
-        "duration": "",
-        "img": "",
-        "details": " "
+        "price": "2000",
+        "duration": "1 Month",
+        "img": "https://www.ed2go.com/common/images/2/21630.jpg",
+        "details": "SQL is currently the most popular language for creating and querying relational databases. It was developed in 1970, when it was given the name “SEQUEL.” Its name changed to “SQL” to avoid trademark infringements. While SQL is not a programming language, procedural extensions can give it the functionality of a programming language. "
     }
 ]
