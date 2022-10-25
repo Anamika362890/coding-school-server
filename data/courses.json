@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "HTML",
+        "price": "",
+        "duration": "",
+        "img": "",
+        "details": " "
+    },
+    {
+        "id": "2",
+        "name": "CSS",
+        "price": "",
+        "duration": "",
+        "img": "",
+        "details": " "
+    },
+    {
+        "id": "3",
+        "name": "Python",
+        "price": "",
+        "duration": "",
+        "img": "",
+        "details": "Python is another programming language that is commonly used. It’s a high-level, general-purpose language used by internet powerhouses such as Google, Dropbox, Venmo, YouTube, and Yahoo Maps. "
+    },
+    {
+        "id": "4",
+        "name": "PHP",
+        "price": "",
+        "duration": "",
+        "img": "",
+        "details": " "
+    },
+    {
+        "id": "5",
+        "name": "C",
+        "price": "",
+        "duration": "",
+        "img": "",
+        "details": " "
+    },
+    {
+        "id": "6",
+        "name": "C++",
+        "price": "",
+        "duration": "",
+        "img": "",
+        "details": " "
+    },
+    {
+        "id": "7",
+        "name": "Object Oriented Programming",
+        "price": "",
+        "duration": "",
+        "img": "",
+        "details": " "
+    },
+    {
+        "id": "8",
+        "name": "C#",
+        "price": "",
+        "duration": "",
+        "img": "",
+        "details": " "
+    },
+    {
+        "id": "9",
+        "name": "Java",
+        "price": "",
+        "duration": "",
+        "img": "",
+        "details": " "
+    },
+    {
+        "id": "10",
+        "name": "SQL",
+        "price": "",
+        "duration": "",
+        "img": "",
+        "details": " "
+    }
+]
