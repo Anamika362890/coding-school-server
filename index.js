@@ -13,13 +13,19 @@ app.get('/courses', (req, res) => {
 
 app.get('/course/:id', (req, res) => {
     const id = req.params.id;
-    const selectedCourse = courses.find(course => course.id === id);
+    const selectedCourse = courses.filter(course => course.id === id);
     res.send(selectedCourse);
 
 
 })
 
+app.get('/course-access/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = courses.filter(course => course.id === id);
+    res.send(selectedCourse);
 
+
+})
 
 
 
